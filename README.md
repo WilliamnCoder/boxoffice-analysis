@@ -1,4 +1,4 @@
-### Data analysis of Box Office 
+### Read before use
 
 ## How to start
 
