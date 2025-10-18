@@ -34,7 +34,7 @@ jupyter notebook
 - **pandas** - for handling data frames
 - **numpy** - for numerical calculations, logic and array handling. 
 ### 5.2. For data visualization: 
-- **matplotlib** - basis for data visualization, e.g. making diagram, plots, tables,
+- **matplotlib** - basis for data visualization, e.g. making diagram, plots and tables.
 - **matplotlib.ticker** - fine-tuning of axis and formatting.
 - **seaborn** - builds on matplotlib, with advanced visualizations.
 ### 5.2. For train-test split:
@@ -43,6 +43,7 @@ jupyter notebook
 ### 5.3. Machine Learning:
 - **from sklearn.linear_model import LinearRegression** - linear model that is interpretable.
 - **from sklearn.ensemble import RandomForestRegressor** - ensemble method for analyzing non-linear relationships.
+- **from sklearn.ensemble import GradientBoostingRegressor** - ensemble method for analyzing non-linear relationships.
 
 ### 5.4. Evaluation metrics:
-- **sklearn.metrics import mean_squared_error, r2_score** - for evaluating the model performance.
+- **sklearn.metrics import mean_squared_error, r2_score** - for evaluating model performance.
